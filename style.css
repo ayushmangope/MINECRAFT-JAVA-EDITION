@@ -1,0 +1,12 @@
+#image{
+    width: 200px;
+     margin-bottom: 50px;
+     border-radius: 50%;
+     margin-left: 570px;
+ }
+ h1{
+   text-align:center;
+ }
+ body{
+   background-color:yellow;
+ }
